@@ -1,3 +1,14 @@
-Lift-off 1/odyssey-lift-off-part1/client/node_modules
-Lift-off 1/odyssey-lift-off-part1/server/node_modules
-.vscode
+Lift-off 1/odyssey-lift-off-part1/client/node_modules/
+Lift-off 1/odyssey-lift-off-part1/server/node_modules/
+
+Lift-off 2/odyssey-lift-off-part2/client/node_modules/
+Lift-off 2/odyssey-lift-off-part2/server/node_modules/
+
+Lift-off 3/odyssey-lift-off-part3/client/node_modules/
+Lift-off 3/odyssey-lift-off-part3/server/node_modules/
+
+Lift-off 4/odyssey-lift-off-part4/client/node_modules/
+Lift-off 4/odyssey-lift-off-part4/server/node_modules/
+
+.vscode/
+.fleet/
