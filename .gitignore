@@ -1,36 +1,5 @@
 .vscode/
 .fleet/
 
-# Lift-off
-Lift-off-1/odyssey-lift-off-part1/client/node_modules/
-Lift-off-1/odyssey-lift-off-part1/server/node_modules/
-
-Lift-off-2/odyssey-lift-off-part2/client/node_modules/
-Lift-off-2/odyssey-lift-off-part2/server/node_modules/
-
-Lift-off-3/odyssey-lift-off-part3/client/node_modules/
-Lift-off-3/odyssey-lift-off-part3/server/node_modules/
-
-Lift-off-4/odyssey-lift-off-part4/client/node_modules/
-Lift-off-4/odyssey-lift-off-part4/server/node_modules/
-
-# Voyage
-Voyage/part1/client/node_modules/
-Voyage/part1/subgraph-locations/node_modules/
-Voyage/part1/subgraph-reviews/node_modules/
-Voyage/part1/final/
-
-Voyage/part2/client/node_modules/
-Voyage/part2/subgraph-locations/node_modules/
-Voyage/part2/subgraph-reviews/node_modules/
-Voyage/part2/final/
-
-Voyage/part3/client/node_modules/
-Voyage/part3/subgraph-locations/node_modules/
-Voyage/part3/subgraph-reviews/node_modules/
-Voyage/part3/final/
-
-Voyage/part4/client/node_modules/
-Voyage/part4/subgraph-locations/node_modules/
-Voyage/part4/subgraph-reviews/node_modules/
-Voyage/part4/final/
+**/node_modules/
+**/final/
